@@ -8,7 +8,7 @@ Se utilizó **Zenmap** para realizar un reconocimiento detallado con los siguien
 * Detectar el número de **puertos abiertos**.
 * Analizar la **topología de red** (ruta hacia el host).
 
-![Configuración del Target](imagenes/foto1.png)
+![Configuración del Target](imagenes/fot1.png)
 
 ### 2. Ejecución y Resultados Técnicos (Nmap Output)
 El escaneo reveló información crítica sobre la infraestructura del servidor:
@@ -49,4 +49,5 @@ La auditoría sobre **donut.bar** permitió determinar que el servidor es una in
 
 * **Puntos Críticos:** La presencia de puertos abiertos para administración remota (SSH) y servicios web (HTTP) requiere una política estricta de parches y firewalls.
 * **Resultado del Reconocimiento:** Se cumplieron todos los objetivos de identificación (IP, SO, Puertos y Ruta), proporcionando al equipo de seguridad una base sólida para realizar un análisis de vulnerabilidades más profundo o una prueba de penetración.
+
 
