@@ -49,6 +49,3 @@ La auditoría sobre **donut.bar** permitió determinar que el servidor es una in
 
 * **Puntos Críticos:** La presencia de puertos abiertos para administración remota (SSH) y servicios web (HTTP) requiere una política estricta de parches y firewalls.
 * **Resultado del Reconocimiento:** Se cumplieron todos los objetivos de identificación (IP, SO, Puertos y Ruta), proporcionando al equipo de seguridad una base sólida para realizar un análisis de vulnerabilidades más profundo o una prueba de penetración.
-
----
-**Proyecto finalizado como parte del entrenamiento en monitoreo de seguridad y respuesta a incidentes.**
